@@ -1,6 +1,4 @@
 # GithubFlowTest
 
-コンフリクト検証
-
-NO!
+練習用
 
