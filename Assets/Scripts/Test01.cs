@@ -6,11 +6,11 @@ public class Test01 : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log($"Add(1, 2) = {Add(1, 2)}");
+        Debug.Log("surplus = "surplus(3,2));
     }
 
-    int Add(int a, int b)
+    int surplus(int a, int b)
     {
-        return a + b;
+        return a % b;
     }
 }
