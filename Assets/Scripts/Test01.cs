@@ -14,11 +14,6 @@ public class Test01 : MonoBehaviour
         return a * b;
     }
 
-    int Add(int a, int b)
-    {
-        return a + b;
-    }
-
     int surplus(int a, int b)
     {
         return a % b;
