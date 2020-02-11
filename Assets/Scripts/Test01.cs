@@ -24,7 +24,7 @@ public class Test01 : MonoBehaviour
         return a % b;
     }
 
-    int Add(int a, int b)
+    double Add(double a, double b)
     {
         return a + b;
     }
